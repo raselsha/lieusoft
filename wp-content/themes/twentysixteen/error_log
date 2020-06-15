@@ -1,0 +1,25 @@
+[05-Dec-2017 15:50:53 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentysixteen/404.php on line 10
+[29-Apr-2018 16:01:58 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentysixteen/404.php on line 10
+[06-Jun-2018 17:02:54 Etc/GMT] PHP Fatal error:  Call to undefined function language_attributes() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentysixteen/header.php on line 13
+[06-Jun-2018 17:03:03 Etc/GMT] PHP Fatal error:  Call to undefined function language_attributes() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentysixteen/header.php on line 13
+[07-Oct-2018 13:22:27 Etc/GMT] PHP Fatal error:  Call to undefined function language_attributes() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentysixteen/header.php on line 13
+[07-Oct-2018 16:03:23 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentysixteen/archive.php on line 19
+[07-Oct-2018 23:56:03 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentysixteen/archive.php on line 19
+[11-Oct-2018 19:45:50 Etc/GMT] PHP Notice:  Undefined index: wp_version in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentysixteen/functions.php on line 31
+[11-Oct-2018 19:45:50 Etc/GMT] PHP Fatal error:  Call to undefined function get_template_directory() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentysixteen/functions.php on line 32
+[12-Oct-2018 16:32:25 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentysixteen/index.php on line 17
+[13-Oct-2018 13:35:35 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentysixteen/single.php on line 10
+[14-Oct-2018 10:34:40 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentysixteen/404.php on line 10
+[15-Oct-2018 07:04:58 Etc/GMT] PHP Fatal error:  Call to undefined function has_nav_menu() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentysixteen/footer.php on line 16
+[16-Oct-2018 04:33:28 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentysixteen/image.php on line 10
+[17-Oct-2018 01:26:49 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentysixteen/page.php on line 14
+[20-Oct-2018 06:14:41 Etc/GMT] PHP Fatal error:  Call to undefined function esc_url() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentysixteen/searchform.php on line 11
+[20-Oct-2018 08:00:27 Etc/GMT] PHP Fatal error:  Call to undefined function is_active_sidebar() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentysixteen/sidebar-content-bottom.php on line 10
+[20-Oct-2018 13:43:06 Etc/GMT] PHP Fatal error:  Call to undefined function is_active_sidebar() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentysixteen/sidebar.php on line 11
+[05-Jan-2019 22:07:18 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentysixteen/404.php on line 10
+[05-Jan-2019 22:07:22 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentysixteen/404.php on line 10
+[06-Apr-2019 19:36:20 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentysixteen/404.php on line 10
+[06-Apr-2019 19:36:25 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentysixteen/404.php on line 10
+[07-May-2019 00:11:34 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentysixteen/404.php on line 10
+[06-Jul-2019 16:35:17 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentysixteen/404.php on line 10
+[15-Jul-2019 08:38:24 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentysixteen/404.php on line 10

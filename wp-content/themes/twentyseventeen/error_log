@@ -1,0 +1,47 @@
+[06-Aug-2017 03:45:38 Etc/GMT] PHP Fatal error:  Call to undefined function get_template_part() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentyseventeen/footer.php on line 22
+[06-Aug-2017 17:50:23 Etc/GMT] PHP Fatal error:  Call to undefined function get_template_part() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentyseventeen/footer.php on line 22
+[18-Oct-2017 10:38:40 Etc/GMT] PHP Fatal error:  Call to undefined function get_template_part() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentyseventeen/footer.php on line 22
+[29-Oct-2017 12:14:35 Etc/GMT] PHP Fatal error:  Call to undefined function get_template_part() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentyseventeen/footer.php on line 22
+[29-Oct-2017 12:14:42 Etc/GMT] PHP Fatal error:  Call to undefined function get_template_part() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentyseventeen/footer.php on line 22
+[29-Oct-2017 12:14:54 Etc/GMT] PHP Fatal error:  Call to undefined function get_template_part() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentyseventeen/footer.php on line 22
+[05-Nov-2017 00:36:53 Etc/GMT] PHP Fatal error:  Call to undefined function get_template_part() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentyseventeen/footer.php on line 22
+[05-Nov-2017 00:37:03 Etc/GMT] PHP Fatal error:  Call to undefined function get_template_part() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentyseventeen/footer.php on line 22
+[05-Nov-2017 00:37:12 Etc/GMT] PHP Fatal error:  Call to undefined function get_template_part() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentyseventeen/footer.php on line 22
+[05-Dec-2017 19:44:27 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentyseventeen/404.php on line 13
+[07-Feb-2018 08:50:13 Etc/GMT] PHP Fatal error:  Call to undefined function post_password_required() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentyseventeen/comments.php on line 21
+[07-Feb-2018 08:50:14 Etc/GMT] PHP Fatal error:  Call to undefined function post_password_required() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentyseventeen/comments.php on line 21
+[29-Apr-2018 07:30:26 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentyseventeen/404.php on line 13
+[29-Jul-2018 21:54:28 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentyseventeen/404.php on line 13
+[20-Oct-2018 09:46:47 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentyseventeen/front-page.php on line 15
+[20-Oct-2018 11:34:26 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentyseventeen/index.php on line 18
+[20-Oct-2018 15:42:46 Etc/GMT] PHP Notice:  Undefined index: wp_version in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentyseventeen/functions.php on line 15
+[20-Oct-2018 15:42:46 Etc/GMT] PHP Fatal error:  Call to undefined function get_template_directory() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentyseventeen/functions.php on line 16
+[20-Oct-2018 17:40:23 Etc/GMT] PHP Fatal error:  Call to undefined function get_template_part() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentyseventeen/footer.php on line 22
+[20-Oct-2018 19:24:06 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentyseventeen/archive.php on line 13
+[20-Oct-2018 21:02:34 Etc/GMT] PHP Fatal error:  Call to undefined function esc_attr() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentyseventeen/searchform.php on line 12
+[20-Oct-2018 22:44:56 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentyseventeen/single.php on line 13
+[21-Oct-2018 00:24:47 Etc/GMT] PHP Fatal error:  Call to undefined function language_attributes() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentyseventeen/header.php on line 16
+[21-Oct-2018 16:13:40 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentyseventeen/404.php on line 13
+[29-Oct-2018 04:48:41 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentyseventeen/page.php on line 18
+[31-Oct-2018 21:51:09 Etc/GMT] PHP Fatal error:  Call to undefined function is_active_sidebar() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentyseventeen/sidebar.php on line 13
+[01-Nov-2018 21:33:13 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentyseventeen/search.php on line 13
+[02-Nov-2018 21:38:24 Etc/GMT] PHP Fatal error:  Call to undefined function post_password_required() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentyseventeen/comments.php on line 21
+[06-May-2019 11:48:31 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentyseventeen/404.php on line 13
+[19-May-2019 02:58:25 Etc/GMT] PHP Notice:  Undefined index: wp_version in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentyseventeen/functions.php on line 15
+[19-May-2019 02:58:25 Etc/GMT] PHP Fatal error:  Call to undefined function get_template_directory() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentyseventeen/functions.php on line 16
+[15-Jun-2019 07:37:13 Etc/GMT] PHP Notice:  Undefined index: wp_version in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentyseventeen/functions.php on line 15
+[15-Jun-2019 07:37:13 Etc/GMT] PHP Fatal error:  Call to undefined function get_template_directory() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentyseventeen/functions.php on line 16
+[01-Jul-2019 18:30:37 Etc/GMT] PHP Fatal error:  Call to undefined function get_template_part() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentyseventeen/footer.php on line 22
+[06-Jul-2019 03:48:55 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentyseventeen/404.php on line 13
+[14-Jul-2019 19:08:45 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentyseventeen/404.php on line 13
+[18-Jul-2019 05:25:58 Etc/GMT] PHP Fatal error:  Call to undefined function get_template_part() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentyseventeen/footer.php on line 22
+[06-Aug-2019 10:56:08 Etc/GMT] PHP Notice:  Undefined index: wp_version in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentyseventeen/functions.php on line 15
+[06-Aug-2019 10:56:08 Etc/GMT] PHP Fatal error:  Call to undefined function get_template_directory() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentyseventeen/functions.php on line 16
+[19-Oct-2019 23:49:00 Etc/GMT] PHP Fatal error:  Call to undefined function get_template_part() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentyseventeen/footer.php on line 22
+[21-Oct-2019 07:19:53 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentyseventeen/404.php on line 13
+[05-Nov-2019 21:56:56 Etc/GMT] PHP Fatal error:  Call to undefined function get_template_part() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentyseventeen/footer.php on line 22
+[12-Dec-2019 22:52:24 Etc/GMT] PHP Notice:  Undefined index: wp_version in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentyseventeen/functions.php on line 15
+[12-Dec-2019 22:52:24 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentyseventeen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentyseventeen/functions.php on line 16

@@ -1,0 +1,7 @@
+[27-Nov-2017 09:08:00 Etc/GMT] PHP Fatal error:  Class 'Walker' not found in /home/shahahbr/public_html/lieusoft.com/wp-includes/class-walker-nav-menu.php on line 17
+[19-Nov-2018 23:17:54 Etc/GMT] PHP Fatal error:  Call to undefined function is_robots() in /home/shahahbr/public_html/lieusoft.com/wp-includes/template-loader.php on line 28
+[09-Feb-2020 17:29:46 Etc/GMT] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/shahahbr/public_html/lieusoft.com/wp-includes/functions.php on line 8
+[09-Feb-2020 17:29:46 Etc/GMT] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/shahahbr/public_html/lieusoft.com/wp-includes/functions.php on line 8
+[09-Feb-2020 17:29:46 Etc/GMT] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/lieusoft.com/wp-includes/functions.php on line 8
+[09-Feb-2020 17:29:46 Etc/GMT] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/lieusoft.com/wp-includes/functions.php on line 8
+[09-Feb-2020 17:29:46 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/shahahbr/public_html/lieusoft.com/wp-includes/functions.php on line 8

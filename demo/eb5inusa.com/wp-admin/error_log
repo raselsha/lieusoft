@@ -1,0 +1,2 @@
+[21-Nov-2019 06:09:33 UTC] WordPress database error Unknown column 'wp_' in 'field list' for query SELECT wp_
+[24-Nov-2019 16:18:37 Etc/GMT] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0

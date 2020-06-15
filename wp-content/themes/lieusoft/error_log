@@ -1,0 +1,4 @@
+[18-May-2017 00:48:51 Etc/GMT] PHP Fatal error:  Call to undefined function wp_footer() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/lieusoft/footer.php on line 1
+[18-May-2017 00:48:51 Etc/GMT] PHP Fatal error:  Call to undefined function wp_footer() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/lieusoft/footer.php on line 1
+[07-Feb-2018 08:50:04 Etc/GMT] PHP Fatal error:  Call to undefined function bloginfo() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/lieusoft/header.php on line 5
+[07-Feb-2018 08:50:05 Etc/GMT] PHP Fatal error:  Call to undefined function bloginfo() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/lieusoft/header.php on line 5

@@ -1,0 +1,158 @@
+/*
+Theme Name: Lieusoft
+Theme URI: http://lieusoft.com/
+Author: Shahadat Hossain
+Author URI:http://shahadat.website/
+Description:Lieusoft is dhaka based web application company. Living out your dream of being a small business on the Internet. We’re here to help you grow your business online. We’re a web design company that specializes on small business websites. Our talented team design you a clean and affordable web design.
+Virsion: 1.0
+Tags: Lieusoft, Lieu soft, Web develpment company
+
+*/
+@font-face{
+	font-family: 'Roboto Condensed';
+	src:url('fonts/Roboto_Condensed/RobotoCondensed-Regular.ttf');
+}
+@font-face{
+	font-family: 'Ubuntu';
+	src:url('fonts/Ubuntu/Ubuntu-Regular.ttf');
+}
+ 
+body{
+	font-family: 'Roboto Condensed';
+	background: url('images/bg.jpg')no-repeat scroll 2% 0px #fff;
+	font-size: 15px;
+  line-height: 1.6;
+}
+h1,h2,h3,h4,h5,h6{
+	margin-top:0px; 
+}
+h1{
+font-size: 24px; 
+}
+h2{
+font-size: 20px; 	
+}
+#menu_area{
+	padding:0px;
+}
+.navbar {
+    margin-top: 20px;
+    border: 0px solid transparent;
+    border-radius:0px;
+    min-height: 10px;
+}
+.navbar-default .navbar-nav .active a, .navbar-default .navbar-nav .active a:focus, .navbar-default .navbar-nav .active a:hover {
+    color: #fff;
+    background-color: #BE1E2D;
+}
+.navbar-default {
+    background-color: transparent;
+    border-color: #fff;
+}
+
+.navbar-nav{
+    background: #efefef;
+    border-radious:5px
+}
+
+.navbar-default .navbar-nav li a {
+    color: #777;
+}
+
+.navbar-default .navbar-nav li a:focus {
+    background: #efefef;
+}
+
+.navbar-default .navbar-nav li a:hover{
+ color: #BE1E2D;
+background: #efefef;
+}
+
+.navbar-nav > li > a {
+    padding-top: 5px;
+    padding-bottom:5px;
+}
+
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:focus, .navbar-default .navbar-nav > .open > a:hover {
+    color: #fff;
+    background-color: #ab2525;
+}
+
+
+.top_header{
+	color: #9c9c9c;
+}
+.top_header a{
+color:#777;
+}
+.top_header a:hover{
+color:#BE1E2D;
+}
+#content_area{
+	padding: 10px 0px;
+}
+.alignright{
+	float: right;
+}
+.alignleft{
+	float:left;
+}
+.aligncenter{
+	margin: auto;
+}
+section{
+	margin-bottom: 10px;
+}
+
+#brand_area li{
+	padding:8px;
+	float: left;
+	opacity: 0.6;
+}
+#brand_area li:hover{
+	padding:8px;
+	float: left;
+	opacity: 1;
+}
+.post{
+	border-bottom: 1px dotted #eee;
+	margin-bottom: 25px;
+}
+.post_title a{
+	color: #333;
+}
+.meta{
+	color: #999;
+	font-size: 13px;
+}
+.meta a{
+	color:#31708F;
+
+}
+/*****************/
+.pagination li a{
+color: #333
+}
+.pagination .active span{
+	background-color: #BE1E2D;
+	border-color: #BE1E2D;
+}
+.pagination .active:hover span{
+	background-color: #BE1E2D;
+	border-color: #BE1E2D;
+}
+.commentlist{
+	margin-left:-26px;
+}
+
+.comment-body{
+border:1px dashed #aaa;
+padding: 10px;
+}
+
+.children .comment-body{
+	border:0px dashed #EBFAD1;
+	padding: 10px;
+	
+}
+

@@ -1,0 +1,6 @@
+[06-Dec-2018 10:59:24 Etc/GMT] PHP Fatal error:  Call to undefined function add_action() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentyseventeen/inc/template-tags.php on line 195
+[06-Dec-2018 11:49:44 Etc/GMT] PHP Fatal error:  Call to undefined function add_action() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentyseventeen/inc/template-tags.php on line 195
+[06-Dec-2018 23:33:28 Etc/GMT] PHP Fatal error:  Call to undefined function add_action() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentyseventeen/inc/icon-functions.php on line 22
+[07-Dec-2018 04:44:43 Etc/GMT] PHP Fatal error:  Call to undefined function add_action() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentyseventeen/inc/icon-functions.php on line 22
+[22-May-2019 08:40:21 Etc/GMT] PHP Fatal error:  Call to undefined function add_action() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentyseventeen/inc/back-compat.php on line 26
+[22-May-2019 17:00:00 Etc/GMT] PHP Fatal error:  Call to undefined function add_action() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentyseventeen/inc/back-compat.php on line 26

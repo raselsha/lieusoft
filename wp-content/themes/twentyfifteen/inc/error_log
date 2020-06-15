@@ -1,0 +1,4 @@
+[26-Oct-2018 01:32:41 Etc/GMT] PHP Fatal error:  Call to undefined function add_action() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentyfifteen/inc/back-compat.php on line 26
+[26-Oct-2018 05:28:13 Etc/GMT] PHP Fatal error:  Call to undefined function add_action() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentyfifteen/inc/custom-header.php on line 41
+[26-Oct-2018 10:06:46 Etc/GMT] PHP Fatal error:  Call to undefined function add_action() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentyfifteen/inc/customizer.php on line 83
+[26-Oct-2018 14:28:38 Etc/GMT] PHP Fatal error:  Call to undefined function add_action() in /home/shahahbr/public_html/lieusoft.com/wp-content/themes/twentyfifteen/inc/template-tags.php on line 171
